@@ -1,0 +1,2 @@
+- MAGIC is undertrained, must have trained upto 1000 or 1500 epochs
+- TEI has issue since we are not able to catch the correct number of connections since the model itself do not exposes the message and the connections

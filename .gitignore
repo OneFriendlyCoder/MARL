@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+env311/
+
+# Local logs and run artifacts
+logs/
+Log_seeded/
+*.log
+saved/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Generated outputs / plots / evaluation data
+images/
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.pdf
+*.csv
+*.npy
+*.npz
+*.pickle
+*.pkl
+eval_results_*.txt
+
+# IDE / OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
